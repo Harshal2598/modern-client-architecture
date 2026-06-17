@@ -36,12 +36,24 @@ A chronological, section-by-section progress log mapping completed lectures, pro
 * [x] **Lecture 28: [Project] Portfolio Website** (9 min)
 * [x] **Lecture 29:** How to Host Your Website for Free with GitHub (9 min)
 * [x] **Lecture 30:** Introduction to Capstone Projects (5 min)
-* [x] **Lecture 31: Instructions for Capstone Project 1 - Online Resume** (2 min)
+* [x] **Lecture 31:** Instructions for Capstone Project 1 - Online Resume (2 min)
 
 ---
 
-## 📅 June 17, 2026 (Today's Targets)
+## 📅 June 17, 2026 (Completed Today)
 
-### 📁 Section 4: Intermediate HTML - Structuring Layouts
-* [ ] **Capstone Project 1:** Build and Code the Online Resume Interface
-* [ ] **Deployment:** Publish the updated landing files to live GitHub Pages hosting
+### 📁 Section 5: Introduction to CSS (Cascading Style Sheets)
+* [x] **Lecture 32:** Why do we need CSS? (9 min)
+* [x] **Lecture 33:** How to add CSS (Inline, Internal, External mechanics) (15 min)
+* [x] **Quiz 1:** CSS Quiz
+* [x] **Lecture 34:** CSS Selectors (Element, Class, ID, and Attribute targeting) (23 min)
+* [x] **Lecture 35: [Project] Colour Vocab Website** (9 min)
+* [x] **Lecture 36:** Tip from Angela - Dealing with Distractions (2 min)
+* [x] **Lecture 37:** Join the Student Community (1 min)
+
+---
+
+## 📅 June 18, 2026 (Next Targets)
+
+### 📁 Section 6: Dive Deeper into CSS Properties
+* [ ] Explore the Box Model (Margins, Padding, Borders), Typography, and Layout positioning.
