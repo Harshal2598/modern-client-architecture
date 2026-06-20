@@ -23,7 +23,7 @@ A chronological, section-by-section progress log mapping completed lectures, pro
 
 ---
 
-## 📅 June 19, 2026 (Completed Today)
+## 📅 June 19, 2026
 
 ### 📁 Section 2: JavaScript Fundamentals (Cont.)
 * [x] **Lecture 53:** Pathways and Section Roadmaps
@@ -38,5 +38,20 @@ A chronological, section-by-section progress log mapping completed lectures, pro
 
 ---
 
-## 📅 June 20, 2026 (Next Targets)
-* [ ] Explore Type Conversion, Type Coercion, Truthy/Falsy logic, and Boolean execution paths.
+## 📅 June 20, 2026 (Completed Today)
+
+### 📁 Section 2: Control Flow & Boolean Logic Trees
+* [x] **Lecture 18:** Taking Decisions: if / else Statements
+* [x] **Coding Exercise 2:** CHALLENGE #2 (Conditional Execution)
+* [x] **Lecture 19:** CHALLENGE #2: Video Solution
+* [x] **Lecture 20:** Type Conversion and Coercion
+* [x] **Lecture 21:** Truthy and Falsy Values
+* [x] **Lecture 22:** Equality Operators: == vs. ===
+* [x] **Lecture 23:** Boolean Logic
+* [x] **Lecture 24:** Logical Operators
+* [x] **Coding Exercise 3:** CHALLENGE #3 (Advanced Boolean Integration)
+
+---
+
+## 📅 June 21, 2026 (Next Targets)
+* [ ] Explore Switch Statements, the Conditional (Ternary) Operator, and complete the final modules of Fundamentals Part 1.
